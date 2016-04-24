@@ -282,6 +282,18 @@ a:focus {
   padding-bottom: 35px;
 }
 
+.my-experience {
+}
+
+#skills-section {
+  width: 100%;
+  background: url(../img/tools.jpg) no-repeat center center scroll;
+}
+
+.education {
+
+}
+
 #map {
     width: 100%;
     height: 200px;
